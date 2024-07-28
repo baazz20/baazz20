@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @baazz20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, I'm @baazz20
+
+- 👀 I’m interested in proptech, fintech, and innovative technologies.
+- 🌱 I’m currently learning Quarkus, GraphQL, and advanced architecture patterns like Hexagonal Architecture and CQRS.
+- 💻 I have experience in mobile development with technologies such as Flutter.
+- 💞️ I’m looking to collaborate on open-source projects related to proptech and fintech, and on any project involving Docker, Spring Boot, Quarkus, Laravel, or mobile development.
+- 📫 How to reach me: [your email or LinkedIn profile link]
 
 <!---
 baazz20/baazz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
